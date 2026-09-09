@@ -27,14 +27,19 @@ A simple Stock Portfolio Tracker that helps users manage and monitor their inves
 
 🎯 Simple and beginner-friendly interface.
 
-# Conclusion
-The Stock Portfolio Tracker provides an easy way to manage investments.
+# Language Used
+Python
 
-It helps users monitor stock prices and portfolio value.
+# How To Run
+Download or clone this repository.
 
-Profit and loss can be calculated quickly.
+Make sure Python is installed on your computer.
 
-It makes investment tracking simple, organized, and efficient.
+Open the project folder in VS Code or another Python editor.
 
-The project is useful for beginners to understand basic stock portfolio management.
+Run the Python file.
+
+# Project Purpose
+This project was created to practice Python programming concepts and was developed as a part of my internship offered by Code_Alpha.
+
 
